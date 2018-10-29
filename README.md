@@ -1,29 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akryum/devfest-nantes-2017/master/logo.png" />
-</p>
-
 <h1 align="center">Summit</h1>
-
-
-<p align="center">
-  <a href="https://www.patreon.com/akryum" target="_blank">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patreon">
-  </a>
-</p>
-
-## Sponsors
-
-### Silver
-
-<p align="center">
-  <a href="https://vueschool.io/" target="_blank">
-    <img src="https://vueschool.io/img/logo/vueschool_logo_multicolor.svg" alt="VueSchool logo" width="200px">
-  </a>
-</p>
-
-<br>
-
-> Ask questions to the speaker and upvote them!
 
 The [backend api](./api) uses Apollo GraphQL tools and an express nodejs server.
 
